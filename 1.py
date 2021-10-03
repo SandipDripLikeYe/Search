@@ -5,5 +5,5 @@ for i in n:
         print("found")
         return i
     else:
-        print("fail")
+        print("wow_not found")
         
