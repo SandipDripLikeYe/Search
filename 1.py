@@ -12,4 +12,4 @@ else:
 
 
 
-April fool
+print("hi")
