@@ -11,4 +11,5 @@ else:
 	print(num, "is not a prime number")
 
 
-Print
+
+April fool
